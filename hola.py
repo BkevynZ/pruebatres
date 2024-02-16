@@ -1,1 +1,1 @@
-g
+print("Hola primera versio")
